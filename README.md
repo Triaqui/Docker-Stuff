@@ -1,2 +1,1 @@
-# docker_stuff
-dockerfiles for my docker images
+# k8s_projects
